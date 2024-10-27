@@ -78,7 +78,7 @@ Pygments==2.18.0
 pyparsing==3.1.4
 pyramid==2.0.2
 python-dateutil==2.9.0.post0
-pytz==2023.3  # Updated to a compatible version
+pytz==2023.3
 rich==13.9.1
 rpds-py==0.20.0
 scikit-learn==1.5.2
@@ -94,8 +94,7 @@ streamlit==1.39.0
 tenacity==9.0.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
-tensorflow==2.13.0  # Changed to a compatible version
-# Removed tensorflow-intel
+tensorflow==2.17.1  # Updated to a compatible version
 termcolor==2.4.0
 threadpoolctl==3.5.0
 toml==0.10.2
